@@ -1,0 +1,50 @@
+GIT 
+Git branching strategy 
+hot fix branch 
+git cherry-pick
+how to raise the PR
+difference between git merge and rebase 
+git pull and git push 
+git reflog
+git clone 
+git remote origin -u <branch name > EX: git push -u origin main 
+git remote -v 
+git checkout (Swapping the branches)
+git checkout -b (new branch )
+
+
+
+KUBERNETES
+Architecture  ( 3 Components , 
+kubectl commands 
+name space 
+ingress controller 
+nodeport 
+cluster ip 
+loadbalancer ip 
+what is readiness probe and what is liveness probe 
+replica sets and deployments differences 
+what is the difference between deployments ,replica sets and deamon sets 
+config maps and secrets 
+what type of errors did u get while u are working on Kubernetes  
+nodes and pods 
+clusters 
+RBAC
+
+
+JENKINS
+Declarative pipeline 
+multistage pipeline
+master slave pipeline 
+
+
+LINUX
+awk 
+sed 
+grep 
+df -h 
+du 
+cd 
+vim
+
+
